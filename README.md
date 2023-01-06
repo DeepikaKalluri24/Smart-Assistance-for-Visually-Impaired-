@@ -1,1 +1,1 @@
-# Smart-Assistance-for-Visually-Impaired-
+# blind_assistant
